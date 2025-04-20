@@ -58,7 +58,7 @@ const Pathterminal: React.FC<PathterminalProps> = ({
   const currentStepRef = useRef(0);
 
   // UI states
-  const [minimized, setMinimized] = useState(false);
+  const [minimized, setMinimized] = useState(true);
   const [gameMode, setGameMode] = useState<string>("real");
   const [backup, setBackup] = useState<BackupState | null>(null);
 
