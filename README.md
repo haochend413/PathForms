@@ -1,5 +1,7 @@
 # PathForms
 
+### This is self-kept version. For newest game: see [Pathforms!](https://play.math.illinois.edu/PathForms/)
+
 To sync with latest remote (Pathforms/PathForms):
 
 ```bash
